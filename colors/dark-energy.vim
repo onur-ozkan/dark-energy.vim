@@ -59,7 +59,9 @@ hi StringDelimiter  guifg=#8197bf    guibg=NONE       gui=NONE
 hi Character        guifg=#8197bf    guibg=NONE       gui=NONE
 hi Number           guifg=#DDDDDD    guibg=NONE       gui=NONE
 hi Boolean          guifg=#DDDDDD    guibg=NONE       gui=NONE
-hi Float            guifg=#DDDDDD    guibg=NONE       gui=NONE
+hi Float            guifg=NONE       guibg=#313131    gui=NONE
+hi NormalFloat      guifg=NONE       guibg=#313131    gui=NONE
+hi FloatBorder      guifg=NONE       guibg=NONE       gui=NONE
 hi Identifier       guifg=#DDDDDD    guibg=NONE       gui=NONE
 hi Function         guifg=#DDDDDD    guibg=NONE       gui=NONE
 hi Statement        guifg=#DDDDDD    guibg=NONE       gui=NONE
