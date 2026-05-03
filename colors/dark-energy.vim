@@ -99,3 +99,21 @@ hi SpellBad         guifg=#992F33    guibg=NONE       gui=NONE
 hi SpellCap         guifg=#D0D0D0    guibg=NONE       gui=NONE
 hi SpellLocal       guifg=#D0D0D0    guibg=NONE       gui=NONE
 hi SpellRare        guifg=#D0D0D0    guibg=NONE       gui=NONE
+
+hi DarkEnergyQuote  guifg=#A293CB    guibg=NONE       gui=italic
+hi link markdownBlockquote DarkEnergyQuote
+hi link markdownBlockquoteDelimiter DarkEnergyQuote
+hi link markdownQuote DarkEnergyQuote
+hi link mkdBlockquote DarkEnergyQuote
+hi link mailQuoted1 DarkEnergyQuote
+hi link mailQuoted2 DarkEnergyQuote
+hi link mailQuoted3 DarkEnergyQuote
+hi link mailQuoted4 DarkEnergyQuote
+hi link mailQuoted5 DarkEnergyQuote
+hi link mailQuoted6 DarkEnergyQuote
+hi link mailQuoteExp1 DarkEnergyQuote
+hi link mailQuoteExp2 DarkEnergyQuote
+hi link mailQuoteExp3 DarkEnergyQuote
+hi link mailQuoteExp4 DarkEnergyQuote
+hi link mailQuoteExp5 DarkEnergyQuote
+hi link mailQuoteExp6 DarkEnergyQuote
